@@ -1,0 +1,22 @@
+{
+  "name": "sabre",
+  "version": "1.0.0",
+  "description": "![SABRE.js](sabre.svg) # SABRE.js: Substation Alpha suBtitles REnderer A Gpu Accelerated Javascript Advanced Substation Alpha Subtitles Renderer.",
+  "main": "src/renderer-main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleven/SABRE.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleven/SABRE.js/issues"
+  },
+  "homepage": "https://github.com/jleven/SABRE.js#readme"
+}
